@@ -8,6 +8,7 @@
   - 🌾 **Smart Agriculture Assistant — Crop & Disease Identifier**
   - 📄 **Resume Parser** (PDF/Image → JSON Converter)
   - 💸 **Personal Finance Tracker** (Expense/Income Dashboard)
+  - 🖋️ **OCR Enrichment** (Text extraction & enhancement pipeline)
 
 - 🌱 I’m learning:
   - Django + MongoDB
@@ -48,9 +49,10 @@
 | Project                                | Tech                            | Description                                              |
 |----------------------------------------|---------------------------------|----------------------------------------------------------|
 | 🌐 **Prediction Site**                 | Python, AI, Web                 | Full-stack web app with AI-driven features               |
-| 🌾 **Smart Agriculture Assistant**     | Python, ML, Flask, Angular      | Crop variety & disease identifier with crop insights      |
+| 🌾 **Smart Agriculture Assistant**     | Python, ML, Flask, Angular      | Crop variety & disease identifier with crop insights     |
 | 📄 **Resume Parser**                   | Node.js, Python, Angular        | Extracts key resume info from PDF/DOCX and outputs JSON  |
 | 💸 **Personal Finance Tracker**        | Angular, Node.js, MongoDB, Chart.js | Track income & expenses with interactive dashboard   |
+| 🖋️ **OCR Enrichment**                 | Python, OCR, NLP                | Enhanced text extraction and post-processing pipeline    |
 
 ---
 
