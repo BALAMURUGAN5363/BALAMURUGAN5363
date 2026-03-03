@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bala</h1>
 <h3 align="center">Python Developer | AI Engineer | FastAPI | React | Data Analyst</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
