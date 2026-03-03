@@ -129,11 +129,7 @@ I have hands-on experience in:
 
 ---
 ## 📊 GitHub Stats
-
-![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=BALAMURUGAN5363&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAMURUGAN5363&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAMURUGAN5363&layout=compact&theme=radical)
 ---
 
 ## 📫 Connect With Me
