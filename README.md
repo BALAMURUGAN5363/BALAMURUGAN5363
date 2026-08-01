@@ -250,15 +250,6 @@ Certifications:
 ---
 
 
-## 📊 GitHub Stats
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAMURUGAN5363&layout=compact&theme=radical)
-
-
----
-
-
 ## 📫 Connect With Me
 
 
