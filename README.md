@@ -78,10 +78,7 @@ I build IIoT monitoring platforms, scalable APIs, AI-powered applications, and f
 During my internships at **InternPe, Igress Solution, AAPGS Private Limited, and RD Automation**, I developed:
 
 
-- 🩺 Diabetes Prediction Model  
-- 🚗 Car Price Prediction  
-- 🏏 IPL Winning Team Prediction  
-- 🎗️ Breast Cancer Detection  
+- 🩺 Diabetes Prediction Model
 - 🏏 Cricket Score Prediction  
 
 
